@@ -1,6 +1,6 @@
 # Chess Engine
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chess_pieces_close_up.jpg/800px-Chess_pieces_close_up.jpg" width="100%" alt="Chess Piece">
-This project was inspired by "Stockfish" a famous chess engine. So i tried to create my own chess engine. There are many ways to create the chess cheater by using Machine Learning Reinforcement Learning, or Search Engine like a "Stockfish".
+This project was inspired by "Stockfish" a famous chess engine. So i tried to create my own chess engine. There are many ways to create a chess cheater by using Machine Learning Reinforcement Learning, or Search Engine like a "Stockfish".
 
 ## Board Representation
 
