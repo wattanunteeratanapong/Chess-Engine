@@ -4,7 +4,7 @@ This project was inspired by "Stockfish" a famous chess engine. So i tried to cr
 
 ## Board Representation
 
-## Board Evaluation Technique
+## Board Evaluation Function
 
 ## Search Algorithm
 
