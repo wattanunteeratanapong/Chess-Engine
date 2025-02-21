@@ -17,6 +17,7 @@ In this project, I chose the bitboard representation because it is widely used a
 ## Search Algorithm
 
 ## Source
+<a href="https://www.chessprogramming.org">Chess Programming Wiki</a> <br><br>
 <a href="https://youtu.be/w4FFX_otR-4?si=A3zdwXE_Vfj7tqhP">The Fascinating Programming of a Chess Engine</a> <br><br>
 <a href="https://www.chess.com/terms/chess-engine">Chess Engine | Top 10 Engines In The World</a> <br><br>
 <a href="https://www.chessprogramming.org/Bitboards">Bitboards</a> <br><br>
