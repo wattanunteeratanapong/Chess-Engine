@@ -16,6 +16,9 @@ In this project, I chose the bitboard representation because it is widely used a
 
 ## Search Algorithm
 
+## Future Direction
+This project could upgrade into "Reinforcement Learning", or adding feature that capture player screen and compute real time using "Computer Vision"
+
 ## Source
 <a href="https://www.chessprogramming.org">Chess Programming Wiki</a> <br><br>
 <a href="https://youtu.be/w4FFX_otR-4?si=A3zdwXE_Vfj7tqhP">The Fascinating Programming of a Chess Engine</a> <br><br>
